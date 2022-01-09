@@ -1,4 +1,4 @@
-# ERP-Analysis-and-Course-Recommendation-System
+# ERP-Course-Analysis-and-Mining-Project
 
 - This project is my undergraduate `Data Mining` course project, done in 2018.
 
